@@ -1,3 +1,7 @@
-theme: jekyll-theme-slate
-title: MVR Documentation
+# Site settings
+title: Motor Vehicle Record Docs
 description: The C Team
+# Build settings
+theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed
