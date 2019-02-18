@@ -1,0 +1,145 @@
+information and requirement selection 
+
+document the data flow and diagram 
+
+develope a ERD and data model
+
+Implement a prototype 
+	* 
+LAMP? 
+
+
+
+------------------------------------ Lecture ---------------------------------
+
+Mission statement:
+
+As a mutual insurance company, we believe our value is measured by the success of our clients.
+We exist to enhance our clients’ success and, in doing so, play a key role in helping them serve the communities in our great nation.
+business case pg 45-47
+reduced costs of MVRs
+keeping users safe!! helps clients reduce car accident risk
+more user friendly and comprehensive 
+
+Scope and Constraints:
+	* 
+to save company money streamlining MVR management and reducing risk of payouts
+	* 
+a new MVR management application for users, 
+	* 
+If it works?
+	* 
+An MVR ERP application, 
+	* 
+the MVR ordering API, unless dummy
+	* 
+isolated system, time, budget, staff 
+	* 
+Assumptions:
+
+
+
+Feasibility:
+	* 
+worth moving forward with?
+	* 
+Time commitment: large vs small
+	* 
+Operational Feasibility 
+
+		* 
+Assume management supports our project
+		* 
+Will users support this? sure?
+		* 
+Will result in workforce reduction? less Processors 
+		* 
+Will it require training? Will require some training. 
+		* 
+User involved in development? (Underwriters, processors) 
+		* 
+Will change operational procedures? With automation, changing roles of processors
+		* 
+Will users have temp or long term adverse experience? Learning to use it, 
+		* 
+Company image impact? (i.e. clients no longer insured, client portal customer firendly)
+		* 
+Development schedule priorities? Assume #1 priority 
+		* 
+Data vendors and ethical and legal constraints? Privacy of individuals, legal constraints on MVR's
+
+
+Technical Feasibility:
+	* 
+Do we have resources to develop, purchase, install or operate systems? Yes
+	* 
+Web App? architecture? etc
+
+
+
+Federated insurance career fair in April. sign up?
+
+ADD IN BATMAN QUOTE
+
+Economic Feasibility:
+	* 
+Do the projected benefits out-weight the estimated costs?
+	* 
+Faculty costs, power costs, hardware, software, development, maintenance
+	* 
+tangible and intangible effects
+
+		* 
+less $2,000,000 payouts
+		* 
+lower MVR managements 
+		* 
+Less processors to pay, lower FTE
+		* 
+save lives, and also ruin lives of bad drivers
+		* 
+DB, UI, Project Design and management Que?, Bill, Anton, matt -340 guySystem Analysis and Design is a problem solving technique that decomposes a system into a step by step processI.E. Going from a end goal and breaking it down into the individual components and a system to create them.A General Methodology that provides a systems view of all components and their interactions with each other. Systems Analyst investigates, analyzes, develops, installs, evaluates and maintains a company's information systemsHardware -> Software -> Data -> Processes -> PeopleHorizontal vs Vertical application SoftwareHorizontal across many industries:
+	* Shipping
+	* Payroll
+	* Inventory
+
+Vertical for a specific industry:
+	* Medical Billing
+	* Vehicle History
+	* Tax Calcuation
+
+Types of systems:
+	* Enterprise Computing system 
+
+		* Company-wide operations and data management 
+	* Transaction Processing System
+
+		* day to day business ops
+	* Biz Support 
+
+		* Payroll, employee mangamane , history, job-related info
+	* Knowledge Management
+
+		* Large DB lookup info 
+	* User productivity
+
+		* email, trello, etc
+
+Mission Critical Systems: vital to companies operation, need 99% uptimeLegacy Systems: Older systems, not the latest system and possibly not supported Business Profile: mission, functions, organization, products, services, customers, suppliers, competitors, constraints, and future direction of a company. Amazon Quicksight's business profileP60 Lin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
