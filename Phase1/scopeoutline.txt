@@ -1,0 +1,16 @@
+Scope of the Application:
+1.	Order MVR's automatically
+2.	Allow clients to enter in driver information to see if eligible for insurance
+3.	Allow underwriters to review violations and adjust order rules
+4.	Saves driver info, MVR ordering info, MVR's, policy and client info
+5.	Will have forms to enter info:
+  a.	Client to enter driver info
+  b.	Underwriter to add/change rules
+  c.	Underwriter to add driver/client
+  d.	Client view drivers and edit
+  e.	Underwriter view book of business
+  f.	Underwriter view violation alerts
+  g.	Processor has more admin controls to add users, edit rules, manually order MVR's, etc
+6.	Will be hosted on a LAMP web server
+
+
