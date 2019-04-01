@@ -1,0 +1,56 @@
+*use a theme, look like one author
+
+TEST:
+leveling and balancing
+
+
+Title page
+table of contents (word has auto tools for this)
+letter of introduction
+	* 
+project manage
+	* 
+database management systems
+	* 
+UI/UX design
+	* 
+software dev
+
+
+Team skill breakdown
+Project planning:
+    description of client
+    system request form
+Project Scope
+    this is what we will be graded against
+    admin pages, API for mvrs, processor views not in scope?
+Schedule
+Feasibility Analysis
+    operational, schedule, economic considerations
+Design
+    user roles and security, underwriter, processor, client
+Legend and context diagram 
+Data flow diagram (diagram 0, level above the previous) (lines are data in UI, processes are code, stores are DB table)
+Level 1 dfd, kinda optional
+decomposition diagram (to get more detail on each process)
+Data dictionaries
+	* 
+    external entitites, data stores, name, label, type, Y/N
+
+
+ERD in 3NF (bold primary keys)
+CRUD matrix (for create, read, update, delete)
+	* 
+    matrix of processes vs db table (no bridge) and the C.R.U.D. operation access
+
+
+mockups for UI
+    reports, forms, etc
+Database design SQL (to build DB)
+Prototype walk thru (screenshots)
+additional info:
+	* 
+appended memos
+	* 
+resumes, contact info, etc
+
